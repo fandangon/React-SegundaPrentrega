@@ -8,7 +8,7 @@ La finalidad de este proyecto es que la farmacia cuente con un sitio web para po
 
 # Instalacion 
 
-Pueden descargar el proyecto desde https://github.com/andreshosch/ReactJS-Hosch en formato zip.
+Pueden descargar el proyecto desde https://github.com/fandangon/React-SegundaPrentrega en formato zip.
 
 Una vez descargado y descomprimido, abrir una ventana de comando sobre la carpeta donde se encuentra el package.json y ejecutar el siguiente comando:
 
@@ -22,7 +22,7 @@ una vez ejecutado el comando se le abrira un navegador web con el proyecto
 
 # Funcionamiento
 
-En el navegador web se encontra con una pagina principal, la misma cuenta con distintas secciones en los cuales podra filtrar los productos por categorias
+En el navegador web se encuentra con una pagina principal, la misma cuenta con distintas secciones en los cuales podra filtrar los productos por categorias
 
  Una vez filtrado los productos, cada uno de estos, va a tener un boton "ver Detalles" en donde tendra una informacion mas detallada del producto en cuestion (descripcion, imagenes de muestra, stock, precio, imagen) tambien contara con un boton "agregar al carrito" para poder ir agregando los productos deseado
 
@@ -36,5 +36,3 @@ En el navegador web se encontra con una pagina principal, la misma cuenta con di
  - REACT JS
  - GITHUB (repositorio del proyecto)
 
-# Autor
-Andrés Hosch
